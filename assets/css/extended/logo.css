@@ -1,0 +1,15 @@
+.logo {
+    position: relative;
+}
+
+.logo a::after {
+    content: "Элитарный мицелий. Пишет сеньор-шампиньон";
+    position: absolute;
+    left: 0;
+    top: 2em;
+    font-size: 0.55em; 
+    height: 1em; 
+    font-weight: 300;
+    width: 310px;
+    z-index: -1;
+}

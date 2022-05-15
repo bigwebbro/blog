@@ -1,3 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://gribnitsa.tech'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '🍄 Грибница'
+theme = 'PaperMod'
+
+#[permalinks]
+#  posts = '/:year/:month/:title/'
